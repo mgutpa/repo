@@ -8,6 +8,7 @@ class SbtserverApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Changes for #3");
 	}
 
 }
